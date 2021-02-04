@@ -1,4 +1,4 @@
 # Gatsby Portfolio Tutorial
 
 - Strapi as backend CMS
-- URL: 
+- URL: https://angelok-strapi-portfolio-tutorial.netlify.app/
